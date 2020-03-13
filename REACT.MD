@@ -1,9 +1,27 @@
+# Project folder
+
+```
+src/
+├── assets/
+├── components/
+└── modules/
+```
 
 # Component folder
 
 ```
-AwesomeCard/
-├── index.js
-├── properties.css
-└── style.css
+component/
+├── Component.jsx
+├── Component.css
+└── ComponentContainer.js
+```
+
+# Module folder
+
+```
+component/
+├── ComponentClient.js
+├── ComponentActions.js
+├── ComponentConstants.js
+└── ComponentReducer.js
 ```
