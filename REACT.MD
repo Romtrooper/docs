@@ -1,4 +1,8 @@
-# Project folder
+## Folders
+
+### Creating folders in a React project
+
+#### Project folder
 
 ```
 src/
@@ -7,7 +11,7 @@ src/
 └── modules/
 ```
 
-# Component folder
+#### Component folder
 
 ```
 component/
@@ -16,7 +20,7 @@ component/
 └── ComponentContainer.js
 ```
 
-# Module folder
+#### Module folder
 
 ```
 component/
