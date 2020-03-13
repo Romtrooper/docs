@@ -1,7 +1,9 @@
 
 # Component folder
 
-component/
-├── ComponentName.jsx
-├── ComponentName.css
-└── ComponentNameContainer.js
+```
+AwesomeCard/
+├── index.js
+├── properties.css
+└── style.css
+```
