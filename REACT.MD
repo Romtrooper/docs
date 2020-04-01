@@ -7,7 +7,7 @@
 1. Name the component by it's purpose
 2. Start a component name with capital letter
   * It make it easier to JSX to identify a custom component insteand of an HTML tag.
-  * For example use Menu instead of menu 
+  * For example use `Menu` instead of `menu`
 3. Do not name a component file name `index.js`
   * It make debugging more difficult
 4. Name components in upper Camel Case => `AppLayout` instead of `applayout`
