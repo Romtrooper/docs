@@ -1,5 +1,7 @@
 ## Some rules to follow
 
+[Thinking with React](https://reactjs.org/docs/thinking-in-react.html)
+
 ### Naming
 
 #### Naming Components
@@ -16,13 +18,68 @@
 
 To ensure components reusability we must avoid creating large components mixing a lot of logic and styling.
 
+Following the single responsibility principle, a component should as much as possible only do one thing:
+
+See: 
+[Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
+
 Components must be:
 
 1. Reusable as much as possible
 2. Testable
 3. Easy to understand
-3. Stateless when they are only displaying data
+4. Stateless when they are only displaying data
 
+If the component is gowing to grow or need some more complexity split it into multiple one following all previous principles exposed.
+
+#### Components Creation
+
+1. Destructure your props
+
+```javascript
+function Hello({ name }) {
+  return <h1>Hello, {name}</h1>;
+}
+```
+
+```javascript
+class Hello extends React.Component {
+  render() {
+    const { name } = this.props;
+    return <h1>Hello, {name}</h1>;
+  }
+}
+
+```
+It make the component much easier to read, specially when a lot of props are given;
+
+2. Avoid unnecessary tag wraping
+
+=> Could be used if some style want to be applied or a specific semantic tag:
+
+```javascript
+function Hello({ name }) {
+  return (
+   <header>
+     <h1>Hello, {name}</h1>;
+     <p>It's a beautiful day</p>
+    </header>
+  )
+}
+```
+
+=> Of no semantic tag is required or no specific style is going to be applied prefer this:
+
+```javascript
+function Hello({ name }) {
+  return (
+   <React.Fragment>
+     <h1>Hello, {name}</h1>;
+     <p>It's a beautiful day</p>
+    </React.Fragment>
+  )
+}
+```
 
 
 ## Folders
