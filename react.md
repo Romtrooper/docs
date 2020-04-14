@@ -2,7 +2,7 @@
 
 [Thinking with React](https://reactjs.org/docs/thinking-in-react.html)
 
-### Naming
+### Components Creation
 
 #### Naming Components
 
@@ -14,7 +14,7 @@
   * It make debugging more difficult
 4. Name components in upper Camel Case => `AppLayout` instead of `applayout`
 
-#### Components Responsability
+#### Single Responsibility
 
 To ensure components reusability we must avoid creating large components mixing a lot of logic and styling.
 
@@ -32,7 +32,12 @@ Components must be:
 
 If the component is gowing to grow or need some more complexity split it into multiple one following all previous principles exposed.
 
-#### Components Creation
+#### Containers
+
+Creating containers is a great way to avoid mixing logic and rendering aspects;
+
+
+#### Dealing with props
 
 1. Destructure your props
 
@@ -81,6 +86,18 @@ function Hello({ name }) {
 }
 ```
 
+#### Styling Components
+
+
+```javascript
+   <MyComponent className='MyComponent' />
+```
+
+```css
+.MyComponent {
+    // rules here for component
+}
+```
 
 ## Folders
 
