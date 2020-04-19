@@ -201,25 +201,14 @@ const value = 'value';
 
 [<img src="https://cdn.pixabay.com/photo/2015/07/10/17/25/portugal-839817_960_720.jpg">](Img "With tooltip")
 
-**Using `<img>` tag with `<style>` tag:**
+**Using `<img>` tag**
 
 ```html
 <img src="https://cdn.pixabay.com/photo/2015/07/10/17/25/portugal-839817_960_720.jpg" class="image" width="500" height="auto">
-
-<style>
-    .image {
-        border-radius: 10%;
-    }
-</style>
 ```
 
 <img src="https://cdn.pixabay.com/photo/2015/07/10/17/25/portugal-839817_960_720.jpg" class="image" width="500" height="auto">
 
-<style>
-    .image {
-        border-radius: 10%;
-    }
-</style>
 
 ## Links
 
