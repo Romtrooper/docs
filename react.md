@@ -37,6 +37,11 @@ If the component is gowing to grow or need some more complexity split it into mu
 Creating containers is a great way to avoid mixing logic and rendering aspects;
 
 
+#### Lifecycles 
+
+Be aware that calliing the `setState` method in a `componentDidMount` or a `componentDidUpdate ` will trigger a second `render()` directly.
+
+
 #### Dealing with props
 
 1. Destructure your props
