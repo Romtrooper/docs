@@ -18,4 +18,4 @@ steps:
     - run: npm set //npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
  ```
 
- Then go to you project settinigs in [app.circleci.com](app.circleci.com) in __Environment Variables__ en create a variable name `GITHUB_TOKEN` with the value of the token.
+Then go to you project settings in [app.circleci.com](https://app.circleci.com/projects) in __Environment Variables__ en create a variable name `GITHUB_TOKEN` with the value of the token.
