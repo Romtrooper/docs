@@ -12,3 +12,23 @@ A collection of useful links
 
 - [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
+
+## News
+
+- [Human Coders](https://news.humancoders.com/)
+
+
+## Newsletters
+
+- [Javascript Weekly](https://javascriptweekly.com/)
+
+- [React JS Newsletter by Tyler McGinnis](http://reactjsnewsletter.com/)
+
+- [React Status](https://react.statuscode.com/)
+
+- [React Native Newsletter by Infinite Red](https://reactnative.cc/)
+
+- [Front End Focus](https://frontendfoc.us/)
+
+
+
