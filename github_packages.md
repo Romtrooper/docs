@@ -1,17 +1,29 @@
-# Github
-
-## Managing Packages
+# Managing Packages
 
 [Official Github Packages doumentation](https://help.github.com/en/packages)
 
 1. Create a [Github Token](https://github.com/settings/tokens)
 1. Authenticate using your access token
 
- ### Installing for CI
+# Installation and usage
+
+## In your project
+
+Add a `.npmrc` file in your root folder
+
+```
+registry=https://npm.pkg.github.com/{github_repo}
+```
+
+```
+npm install @{owner}/{package_name}
+```
+
+### Installing for CI (continuous integration)
  
 #### Circle CI
 
-In your `config.yml`before running `npm install` set:
+In your `config.yml` before running `npm install` set:
 
  ```yaml
 steps:
