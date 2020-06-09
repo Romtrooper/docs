@@ -30,5 +30,19 @@ A collection of useful links
 
 - [Front End Focus](https://frontendfoc.us/)
 
+## Cloud Editors
+
+- [JSFiddle](https://jsfiddle.net/)
+
+- [CodePen](https://codepen.io/)
+
+- [Code Anywhere](https://codeanywhere.com/)
+
+- [Code Sandbox](https://codesandbox.io/)
+
+- [Glitch](https://glitch.com/)
+
+- [StackBlitz](https://stackblitz.com/)
+
 
 
