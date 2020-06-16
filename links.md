@@ -6,6 +6,7 @@ A collection of useful links
 ## Learning
 
 - [Github Lab](https://lab.github.com/)
+
 - [Typescript Courses](https://typescriptcourses.com/)
 
 ## TypeScript
@@ -16,6 +17,10 @@ A collection of useful links
 ## News
 
 - [Human Coders](https://news.humancoders.com/)
+
+- [dev.to](https://dev.to/)
+
+- [CSS-TRICKS](https://css-tricks.com/)
 
 
 ## Newsletters
@@ -30,5 +35,20 @@ A collection of useful links
 
 - [Front End Focus](https://frontendfoc.us/)
 
+## Tools
 
+- [Balsamiq (wireframes)](https://balsamiq.com/)
 
+- [Regex101](https://regex101.com/)
+
+- [npm RunKit](https://npm.runkit.com/)
+
+- [Giddy (grid generator)](https://griddy.io/)
+
+- [CSS matic (CSS generator tool)](https://www.cssmatic.com/)
+
+- [cssreference.io](https://cssreference.io/)
+
+- [htmlreference.io](https://htmlreference.io/)
+
+- [Front end checklist](https://frontendchecklist.io/)
