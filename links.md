@@ -52,3 +52,17 @@ A collection of useful links
 - [htmlreference.io](https://htmlreference.io/)
 
 - [Front end checklist](https://frontendchecklist.io/)
+
+## Cloud Editors
+
+- [JSFiddle](https://jsfiddle.net/)
+
+- [CodePen](https://codepen.io/)
+
+- [Code Anywhere](https://codeanywhere.com/)
+
+- [Code Sandbox](https://codesandbox.io/)
+
+- [Glitch](https://glitch.com/)
+
+- [StackBlitz](https://stackblitz.com/)
