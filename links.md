@@ -43,7 +43,7 @@ A collection of useful links
 
 - [npm RunKit](https://npm.runkit.com/)
 
-- [Giddy (grid generator)](https://griddy.io/)
+- [Griddy (grid generator)](https://griddy.io/)
 
 - [CSS matic (CSS generator tool)](https://www.cssmatic.com/)
 
