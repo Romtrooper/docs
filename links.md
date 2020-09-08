@@ -9,6 +9,10 @@ A collection of useful links
 
 - [Typescript Courses](https://typescriptcourses.com/)
 
+## Javascript
+
+- [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
+
 ## TypeScript
 
 - [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
