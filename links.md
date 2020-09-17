@@ -39,6 +39,11 @@ A collection of useful links
 
 - [Front End Focus](https://frontendfoc.us/)
 
+- [Tech Trash](https://www.techtrash.fr/)
+
+- [Responsive Web Design](https://responsivedesign.is/newsletter/)
+
+
 ## Tools
 
 - [Balsamiq (wireframes)](https://balsamiq.com/)
